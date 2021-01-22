@@ -5,7 +5,7 @@ spring:
     config:
       override-none: true
 
-# 启动参数 --server.port 可以覆盖yml配置
+# 启动参数 --server.port 可以覆盖yml配置1
 server:
   port: 8001
   
